@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "31c88f668c7b170f43f6",
-    "url": "/weather-dashboard/static/css/main.f8f68d44.chunk.css"
+    "revision": "cb8e221f82e9f9e192a1",
+    "url": "/weather-dashboard/static/css/main.184883ab.chunk.css"
   },
   {
-    "revision": "31c88f668c7b170f43f6",
-    "url": "/weather-dashboard/static/js/main.e64ebaec.chunk.js"
+    "revision": "cb8e221f82e9f9e192a1",
+    "url": "/weather-dashboard/static/js/main.d2d4fe97.chunk.js"
   },
   {
     "revision": "18eb3f1a32e80f41731d",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/weather-dashboard/static/media/weather3.eaa8f37a.jpg"
   },
   {
-    "revision": "5e0319469d56b2979a735164319c5b56",
+    "revision": "a1b800491a1837030e013ed4b2ab3de4",
     "url": "/weather-dashboard/index.html"
   }
 ];
